@@ -11,7 +11,7 @@
         "projectName": "Models",
         "projectPath": "C:\\Users\\EDUARDO\\source\\repos\\Dealership\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\EDUARDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EDUARDO\\source\\repos\\Dealership\\Models\\obj\\",
+        "outputPath": "C:\\Users\\EDUARDO\\Source\\Repos\\Dealership\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

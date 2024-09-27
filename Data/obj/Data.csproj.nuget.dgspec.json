@@ -11,7 +11,7 @@
         "projectName": "Data",
         "projectPath": "C:\\Users\\EDUARDO\\source\\repos\\Dealership\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\EDUARDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EDUARDO\\source\\repos\\Dealership\\Data\\obj\\",
+        "outputPath": "C:\\Users\\EDUARDO\\Source\\Repos\\Dealership\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
